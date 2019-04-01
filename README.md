@@ -4,3 +4,6 @@ zero to one. 个人日志
 [写一个观察者模式（发布-订阅模式）例子](https://github.com/twosugar/myBlog/issues/1)
 
 [单例模式](https://github.com/twosugar/myBlog/issues/2)
+
+## React
+[react阻止事件冒泡](https://github.com/twosugar/myBlog/issues/3)
