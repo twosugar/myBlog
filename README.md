@@ -9,3 +9,5 @@ zero to one. 个人日志
 [react阻止事件冒泡](https://github.com/twosugar/myBlog/issues/3)
 
 [Context执行上下文](https://github.com/twosugar/myBlog/issues/4)
+
+[Object.defineProperty与Proxy](https://github.com/twosugar/myBlog/issues/5)
