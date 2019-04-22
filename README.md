@@ -12,5 +12,7 @@ zero to one. 个人日志
 
 [Object.defineProperty与Proxy](https://github.com/twosugar/myBlog/issues/5)
 
+[React高阶组件](https://github.com/twosugar/myBlog/issues/6)
+
 ## 微信小程序
 云开发
