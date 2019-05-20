@@ -16,3 +16,6 @@ zero to one. 个人日志
 
 ## 微信小程序
 云开发
+
+## js
+[图片懒加载](https://github.com/twosugar/myBlog/issues/7)
