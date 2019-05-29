@@ -19,3 +19,6 @@ zero to one. 个人日志
 
 ## js
 [图片懒加载](https://github.com/twosugar/myBlog/issues/7)
+
+## 其他
+[基于monaco-editor的代码编辑框](https://github.com/twosugar/myBlog/issues/8)
