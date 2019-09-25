@@ -23,7 +23,14 @@ zero to one. 个人日志
 [MessageChannel 管道通信](https://github.com/twosugar/myBlog/issues/9)
 
 ## 有趣的工具或方法
-[css](https://github.com/twosugar/myBlog/issues/10)
+1. 用于检测当前手机是否支持css属性：https://css3test.com/
+2. 域名ip绑定，多开发环境切换：iHosts
+3. 抓包工具：Charles
+4. 视觉稿图形软件：Sketch
+5. json数据格式化查看：FeHelper
+6. 用来更改页面请求响应的内容。通过指定规则，您可以把请求映射到其他的url，浏览器拓展程序：ReRes
+7. 个性化终端：iTerm
+8. 代码提交纪录，支持创建、克隆、提交、push、pull 和合并等操作：sourceTree
 
 ## 其他
 [基于monaco-editor的代码编辑框](https://github.com/twosugar/myBlog/issues/8)
