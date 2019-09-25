@@ -27,7 +27,7 @@ zero to one. 个人日志
 2. 域名ip绑定，多开发环境切换：iHosts
 3. 抓包工具：Charles
 4. 视觉稿图形软件：Sketch
-5. json数据格式化查看：FeHelper
+5. json数据格式化查看，浏览器拓展程序：FeHelper
 6. 用来更改页面请求响应的内容。通过指定规则，您可以把请求映射到其他的url，浏览器拓展程序：ReRes
 7. 个性化终端：iTerm
 8. 代码提交纪录，支持创建、克隆、提交、push、pull 和合并等操作：sourceTree
