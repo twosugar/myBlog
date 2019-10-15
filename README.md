@@ -31,6 +31,7 @@ zero to one. 个人日志
 6. 用来更改页面请求响应的内容。通过指定规则，您可以把请求映射到其他的url，浏览器拓展程序：ReRes
 7. 个性化终端：iTerm
 8. 代码提交纪录，支持创建、克隆、提交、push、pull 和合并等操作：sourceTree
+9. 手机端调试面板 [vsConsole](https://github.com/Tencent/vConsole/blob/dev/README_CN.md)
 
 ## 其他
 [基于monaco-editor的代码编辑框](https://github.com/twosugar/myBlog/issues/8)
