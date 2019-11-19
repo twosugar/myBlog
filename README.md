@@ -33,6 +33,7 @@ zero to one. 个人日志
 8. 代码提交纪录，支持创建、克隆、提交、push、pull 和合并等操作：sourceTree
 9. 手机端调试面板 [vsConsole](https://github.com/Tencent/vConsole/blob/dev/README_CN.md)
 10. webpack减少打包体积[https://mp.weixin.qq.com/s/W5_WiDGck6tMUe4CNU_qPA](https://mp.weixin.qq.com/s/W5_WiDGck6tMUe4CNU_qPA)
+11. 发布一个npm包[译文](https://juejin.im/post/5c26c1b65188252dcb312ad6)
 
 ## 其他
 [基于monaco-editor的代码编辑框](https://github.com/twosugar/myBlog/issues/8)
