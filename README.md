@@ -14,6 +14,8 @@ zero to one. 个人日志
 
 [React高阶组件](https://github.com/twosugar/myBlog/issues/6)
 
+[按需加载模块或者方法](https://github.com/twosugar/myBlog/issues/11)
+
 ## 微信小程序
 云开发
 
@@ -21,8 +23,6 @@ zero to one. 个人日志
 [图片懒加载](https://github.com/twosugar/myBlog/issues/7)
 
 [MessageChannel 管道通信](https://github.com/twosugar/myBlog/issues/9)
-
-[按需加载模块或者方法](https://github.com/twosugar/myBlog/issues/11)
 
 ## 有趣的工具或方法
 1. 用于检测当前手机是否支持css属性：https://css3test.com/
