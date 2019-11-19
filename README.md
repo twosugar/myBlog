@@ -22,6 +22,8 @@ zero to one. 个人日志
 
 [MessageChannel 管道通信](https://github.com/twosugar/myBlog/issues/9)
 
+[按需加载模块或者方法](https://github.com/twosugar/myBlog/issues/11)
+
 ## 有趣的工具或方法
 1. 用于检测当前手机是否支持css属性：https://css3test.com/
 2. 域名ip绑定，多开发环境切换：iHosts
