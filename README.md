@@ -40,6 +40,6 @@ zero to one. 个人日志
     
     [你拆分JS代码的方法可能是错的](https://mp.weixin.qq.com/s/W5_WiDGck6tMUe4CNU_qPA)
 11. 发布一个npm包[译文](https://juejin.im/post/5c26c1b65188252dcb312ad6)
-
+12.[vscode插件代替postman](https://juejin.im/post/5e2067f7f265da3e405028fb?from=timeline)
 ## 其他
 [基于monaco-editor的代码编辑框](https://github.com/twosugar/myBlog/issues/8)
