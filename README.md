@@ -42,5 +42,6 @@ zero to one. 个人日志
 11. 发布一个npm包[译文](https://juejin.im/post/5c26c1b65188252dcb312ad6)
 12. [vscode插件代替postman](https://juejin.im/post/5e2067f7f265da3e405028fb?from=timeline)
 13. [cdn调用npm资源](https://www.jsdelivr.com/).例子：https://cdn.jsdelivr.net/npm/component-contact-store@0.0.1/dist/bundle.js
+14. [ast插件相关，ast代码在线生成](https://astexplorer.net/)，参考文章：https://mp.weixin.qq.com/s/i_XnxoRrO90lnW1fGGq4qQ
 ## 其他
 [基于monaco-editor的代码编辑框](https://github.com/twosugar/myBlog/issues/8)
