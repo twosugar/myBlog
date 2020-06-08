@@ -16,6 +16,8 @@ zero to one. 个人日志
 
 [按需加载模块或者方法](https://github.com/twosugar/myBlog/issues/11)
 
+[使用React.lazy和Suspense进行组件延迟加载](https://github.com/twosugar/myBlog/issues/13)
+
 ## 微信小程序
 云开发
 
