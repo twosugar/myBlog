@@ -26,6 +26,9 @@ zero to one. 个人日志
 
 [MessageChannel 管道通信](https://github.com/twosugar/myBlog/issues/9)
 
+## 性能
+[前端代码线上出错如何解决？使用sentry](https://mp.weixin.qq.com/s/_p9m7lVOJJi4cRoGm6TjGA)  + [生产环境报错如何定位源码位置](https://mp.weixin.qq.com/s?__biz=MzA4Nzg0MDM5Nw==&mid=2247484558&amp;idx=1&amp;sn=f19de042ebb281654c852ce07e823a24&source=41#wechat_redirect) 两者配合无需上传sourceMap至sentry
+
 ## 有趣的工具或方法
 1. 用于检测当前手机是否支持css属性：https://css3test.com/
 2. 域名ip绑定，多开发环境切换：iHosts
