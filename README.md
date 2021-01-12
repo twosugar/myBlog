@@ -5,6 +5,10 @@ zero to one. 个人日志
 
 [单例模式](https://github.com/twosugar/myBlog/issues/2)
 
+## 微前端
+[封装npm组件](https://github.com/twosugar/myBlog/issues/14)
+[异步引入npm组件方案，免npm install，减少打包后体积](https://github.com/twosugar/myBlog/issues/15)
+
 ## React
 [react阻止事件冒泡](https://github.com/twosugar/myBlog/issues/3)
 
