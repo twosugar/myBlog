@@ -5,6 +5,9 @@ zero to one. 个人日志
 
 [单例模式](https://github.com/twosugar/myBlog/issues/2)
 
+## 开阔视野
+[puppeteer自动化开发神器！](https://github.com/puppeteer/puppeteer)
+
 ## 微前端
 [封装npm组件](https://github.com/twosugar/myBlog/issues/14)
 
