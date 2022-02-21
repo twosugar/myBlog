@@ -62,5 +62,21 @@ zero to one. 个人日志
 18. scroll-behavior: smooth;  scrollLeft的平滑过渡方案
 19. 在webworker中运行js https://www.youtube.com/watch?v=X57mh8tKkgE
 20. [memoize-one](https://github.com/alexreardon/memoize-one)避免重复渲染
+21. [why-did-you-render](https://github.com/welldone-software/why-did-you-render)--- 重复渲染检测
+22. [去除背景色](https://www.aigei.com/bgremover/) 图片转png
+23. 图片压缩网站 http://tinypng.com 、 https://squoosh.app
+24. document.designMode='on',网页数据全部变成可复制; document.body.contentEditable = 'true', 网页变为可编辑
+25. github 搜索资源 xxx awesome、例子demo xxx simple、空项目架子xxx starter、教程xxx tutorial  (例子： javascript awesome)
+26. 好用工具集 https://tools.fun/index.html
+27. [lerna](https://github.com/lerna/lerna)进行组件库搭建
+28. [AST Explorer](https://astexplorer.net/)，它可以让你可以看到各种语言的 AST 语法树
+29. 2021年热度： vite、Astro、Remix、Rust、swc、monorepo中的Lerna、Strapi
+30. vscode 的插件脚手架 npm install -g yo generator-code  开发文档：https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/get-started/your-first-extension
+31. 视频转gif: https://www.apowersoft.cn/video-to-gif-online
+32. css Object-fit属性 防止图片拉伸 使其保持覆盖
+33. node 服务 日志监控插件 winston
+34. tsdx开发一个库，默认配置，节省繁杂的配置时间 https://github.com/jaredpalmer/tsdx
+35. 日志信息生成文件 npm run build | tee -a ls.text        https://blog.csdn.net/zong596568821xp/article/details/82997885
+36. vscode插件： GitHub Copilot 人工智能 代码提示
 ## 其他
 [基于monaco-editor的代码编辑框](https://github.com/twosugar/myBlog/issues/8)
