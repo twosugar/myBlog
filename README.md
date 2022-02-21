@@ -57,5 +57,10 @@ zero to one. 个人日志
 13. [cdn调用npm资源](https://www.jsdelivr.com/).例子：https://cdn.jsdelivr.net/npm/component-contact-store@0.0.1/dist/bundle.js
 14. [ast插件相关，ast代码在线生成](https://astexplorer.net/)，参考文章：https://mp.weixin.qq.com/s/i_XnxoRrO90lnW1fGGq4qQ
 15. Service Worker，目前该技术通常用来做缓存文件，提高首屏速度。
+16. puppeteer自动化
+17. [rrweb](https://github.com/rrweb-io/rrweb)实现录屏回放
+18. scroll-behavior: smooth;  scrollLeft的平滑过渡方案
+19. 在webworker中运行js https://www.youtube.com/watch?v=X57mh8tKkgE
+20. [memoize-one](https://github.com/alexreardon/memoize-one)避免重复渲染
 ## 其他
 [基于monaco-editor的代码编辑框](https://github.com/twosugar/myBlog/issues/8)
